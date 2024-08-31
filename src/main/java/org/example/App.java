@@ -1,2 +1,4 @@
-package org.example;public class App {
+package org.example.article;
+
+public class App {
 }
